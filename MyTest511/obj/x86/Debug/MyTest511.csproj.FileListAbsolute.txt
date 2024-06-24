@@ -1,0 +1,16 @@
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.rxtmg
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.rxtst
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.exe.config
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.xml
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\MyTest511.pdb
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\Ranorex Automation Helpers.dll
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\Ranorex.ReportToPDF.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\Ranorex Automation Helpers.pdb
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\bin\Debug\Ranorex Automation Helpers.xml
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\obj\x86\Debug\MyTest511.csproj.AssemblyReference.cache
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\obj\x86\Debug\MyTest511.csproj.CoreCompileInputs.cache
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\obj\x86\Debug\MyTest511.csproj.CopyComplete
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\obj\x86\Debug\MyTest511.exe
+C:\Users\kisho\OneDrive\Documents\Ranorex\RanorexStudio Projects\MyTest511\MyTest511\obj\x86\Debug\MyTest511.pdb

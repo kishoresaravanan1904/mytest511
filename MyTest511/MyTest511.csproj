@@ -40,71 +40,317 @@
     <Reference Include="Ranorex.Bootstrapper">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Bootstrapper">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Bootstrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Common">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Common.Net35">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Common.Net35.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Contracts">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Controls">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Controls.Wpf">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Controls.Wpf.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Core">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core.Contracts.netstandard2.0">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.Contracts.netstandard2.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core.ImeHook">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.ImeHook.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core.Ipc.net462">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.Ipc.net462.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core.Ipc.netstandard2.0">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.Ipc.netstandard2.0.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Core.Resolver">
       <Private>True</Private>
     </Reference>
+    <Reference Include="Ranorex.Core.Resolver">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.Resolver.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core.WinApi">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Core.WinApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.DelphiNative32">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.DelphiNative32.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.DelphiNative64">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.DelphiNative64.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Client">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Client.Panel">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Client.Panel.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Client.Panel.Logic">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Client.Panel.Logic.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Client.Wpf">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Client.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Common">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Components">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Components.Domain">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Components.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Components.Network">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Components.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Components.TestExecution">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Components.TestExecution.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Infrastructure">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Dex.Localization">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Dex.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.InjectionBootstrapper32">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.InjectionBootstrapper32.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.InjectionBootstrapper64">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.InjectionBootstrapper64.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.Java32">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.Java32.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.Java64">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.Java64.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.Qt">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.Qt.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.RawText">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.RawText.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.RawTextNative32">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.RawTextNative32.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Instrumentation.RawTextNative64">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Instrumentation.RawTextNative64.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Integrations.Jira">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Integrations.Jira.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Integrations.Services">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Integrations.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Integrations.TestRail.Controls">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Integrations.TestRail.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Integrations.TestRail.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Integrations.TestRail.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Integrations.TestRail.Service">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Integrations.TestRail.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.Base">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.Domain">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.IeAddon3">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.IeAddon3.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.Licensing">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.SourceControl">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.SourceControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.Util">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.WinApi">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.WinApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs.WinForms">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Libs.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.MSBuildTasks">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.MSBuildTasks.exe</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Mvvm">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Mvvm.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.ParallelRunner">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.ParallelRunner.exe</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.PDFReport">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.PDFReport.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Cef">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Cef">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Cef.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.CefHost">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.CefHost.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.ChromeMsgHost">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.ChromeMsgHost.exe</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.ChromeWeb">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.ChromeWeb">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.ChromeWeb.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Delphi">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Delphi">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Delphi.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.FirefoxMsgHost">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.FirefoxMsgHost.exe</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.FirefoxWeb">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.FirefoxWeb">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.FirefoxWeb.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Flex">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Flex">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Flex.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Java">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Java">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Java.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Mobile">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Mobile">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Mobile.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Msaa">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Msaa">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Msaa.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Office">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Office">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Office.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Qt">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Qt">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Qt.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.RawText">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.RawText">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.RawText.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Sap">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Sap">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Sap.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Uia">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Uia">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Uia.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Web">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Web">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Web.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.WebDriver">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WebDriver">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WebDriver.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.Win32">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Win32">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Win32.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.WinForms">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WinForms">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WinForms.Contracts.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WinForms.Contracts.Core.dll</HintPath>
     </Reference>
     <Reference Include="Ranorex.Plugin.WinForms.Core">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.WinForms.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WinForms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WinFormsProxy">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WinFormsProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WinFormsProxy.Core.netcoreapp3.0">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WinFormsProxy.Core.netcoreapp3.0.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Wpf">
       <Private>False</Private>
     </Reference>
+    <Reference Include="Ranorex.Plugin.Wpf">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Wpf.Contracts.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Wpf.Contracts.Core.dll</HintPath>
+    </Reference>
     <Reference Include="Ranorex.Plugin.Wpf.Core">
       <Private>False</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Wpf.Core">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Wpf.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WpfProxy">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WpfProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.WpfProxy.Core.netcoreapp3.0">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.WpfProxy.Core.netcoreapp3.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Rox.Client">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Rox.Client.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
